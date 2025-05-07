@@ -1,23 +1,17 @@
-![banner.png](assets/banner.png)
+# Create-PyTauri
 
-# Create-pytauri
+![banner.png](https://raw.githubusercontent.com/pytauri/pytauri/v0.5.0/docs/assets/banner.png)
 
-The recommended way to start a new PyTauri project.  
-Currently only has Vue support.
+The recommended way to start a new PyTauri project.
 
 ## How to use
 
-Make sure you have [uv](https://docs.astral.sh/uv/) installed.
+Make sure you have [uv](https://docs.astral.sh/uv/) and [pnpm](https://pnpm.io/) installed.
 
 ```shell
-uvx copier copy https://github.com/ISOR3X/create-pytauri project_name
+uvx copier copy https://github.com/pytauri/create-pytauri .
 ```
-
-## To do
-
-1. Create a venv, install the python package as a dependency (maybe as a separate command?)
-2. Add example GUI (see [pytauri-vue-starter](https://github.com/ISOR3X/pytauri-vue-starter))
 
 ## Refer
 
-<https://github.com/orgs/copier-org/discussions/2121>
+- <https://github.com/orgs/copier-org/discussions/2121>
